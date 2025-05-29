@@ -1,0 +1,1670 @@
+﻿language,topic,user_query,bot_response,intent,source
+en,account_balance,Why is my balance incorrect?,Your current balance is $2958.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.3%
+- Home: 7.8%
+- Auto: 7.3%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.9%
+- Home: 4.4%
+- Auto: 3.9%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.5%
+- Home: 7.0%
+- Auto: 6.5%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.0%
+- Home: 4.5%
+- Auto: 4.0%",loan_query,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #112203 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #286883 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6377.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $1539.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.4%
+- Home: 6.9%
+- Auto: 6.4%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #481438 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.5%
+- Home: 4.0%
+- Auto: 3.5%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $9312.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $8693.,account_balance,local_generation
+en,account_balance,What's my current balance?,Your current balance is $6850.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $574.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #445402 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $8215.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.2%
+- Home: 7.7%
+- Auto: 7.2%",loan_query,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $4742.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6370.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.2%
+- Home: 5.7%
+- Auto: 5.2%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.8%
+- Home: 5.3%
+- Auto: 4.8%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $906.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $4106.,account_balance,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.2%
+- Home: 3.7%
+- Auto: 3.2%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.2%
+- Home: 6.7%
+- Auto: 6.2%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #612507 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $585.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.9%
+- Home: 7.4%
+- Auto: 6.9%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $3106.,account_balance,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 3.7%
+- Home: 3.2%
+- Auto: 2.7%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.2%
+- Home: 3.7%
+- Auto: 3.2%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 5.0%
+- Home: 4.5%
+- Auto: 4.0%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.4%
+- Home: 3.9%
+- Auto: 3.4%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $7169.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #740309 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6212.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #278278 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 8.2%
+- Home: 7.7%
+- Auto: 7.2%",loan_query,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $5696.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #830306 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #277334 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #936277 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.0%
+- Home: 6.5%
+- Auto: 6.0%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #361677 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #853670 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $9027.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $3807.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #665558 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $2941.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $6332.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #876541 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.3%
+- Home: 6.8%
+- Auto: 6.3%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #652372 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.4%
+- Home: 7.9%
+- Auto: 7.4%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 8.2%
+- Home: 7.7%
+- Auto: 7.2%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $454.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6511.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.4%
+- Home: 5.9%
+- Auto: 5.4%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $450.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $4408.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #675868 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $1697.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.1%
+- Home: 3.6%
+- Auto: 3.1%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6701.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.9%
+- Home: 4.4%
+- Auto: 3.9%",loan_query,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 7.0%
+- Home: 6.5%
+- Auto: 6.0%",loan_query,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #202277 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.0%
+- Home: 4.5%
+- Auto: 4.0%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #852422 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 8.2%
+- Home: 7.7%
+- Auto: 7.2%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $3859.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.3%
+- Home: 6.8%
+- Auto: 6.3%",loan_query,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #103802 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $7804.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.1%
+- Home: 6.6%
+- Auto: 6.1%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 8.3%
+- Home: 7.8%
+- Auto: 7.3%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6488.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.8%
+- Home: 4.3%
+- Auto: 3.8%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.2%
+- Home: 7.7%
+- Auto: 7.2%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.4%
+- Home: 4.9%
+- Auto: 4.4%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $8932.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $1696.,account_balance,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #180350 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.7%
+- Home: 7.2%
+- Auto: 6.7%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 3.8%
+- Home: 3.3%
+- Auto: 2.8%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.4%
+- Home: 5.9%
+- Auto: 5.4%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #682169 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.1%
+- Home: 7.6%
+- Auto: 7.1%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #438632 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $5241.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $1468.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.9%
+- Home: 5.4%
+- Auto: 4.9%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #149660 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.0%
+- Home: 3.5%
+- Auto: 3.0%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.1%
+- Home: 4.6%
+- Auto: 4.1%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #793500 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.9%
+- Home: 7.4%
+- Auto: 6.9%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $4308.,account_balance,local_generation
+en,account_balance,What's my current balance?,Your current balance is $2681.,account_balance,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #328513 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.0%
+- Home: 5.5%
+- Auto: 5.0%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $9628.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.5%
+- Home: 5.0%
+- Auto: 4.5%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $9452.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.4%
+- Home: 4.9%
+- Auto: 4.4%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #470609 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.9%
+- Home: 6.4%
+- Auto: 5.9%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $3615.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $5638.,account_balance,local_generation
+en,account_balance,What's my current balance?,Your current balance is $7974.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #812463 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.2%
+- Home: 3.7%
+- Auto: 3.2%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 7.5%
+- Home: 7.0%
+- Auto: 6.5%",loan_query,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #853796 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $1756.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.0%
+- Home: 4.5%
+- Auto: 4.0%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #955366 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #564090 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $5975.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6536.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #206471 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #325832 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 7.5%
+- Home: 7.0%
+- Auto: 6.5%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $7290.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #527679 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.5%
+- Home: 6.0%
+- Auto: 5.5%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $8746.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.7%
+- Home: 5.2%
+- Auto: 4.7%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #314656 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #175504 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #132945 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6162.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $5012.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $8619.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.4%
+- Home: 3.9%
+- Auto: 3.4%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $9696.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.2%
+- Home: 3.7%
+- Auto: 3.2%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $268.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.1%
+- Home: 3.6%
+- Auto: 3.1%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #299758 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $4904.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #337636 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.7%
+- Home: 7.2%
+- Auto: 6.7%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #131458 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $1815.,account_balance,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.6%
+- Home: 4.1%
+- Auto: 3.6%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 3.9%
+- Home: 3.4%
+- Auto: 2.9%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.2%
+- Home: 7.7%
+- Auto: 7.2%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #300702 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $1377.,account_balance,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $4981.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #943382 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #630421 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 8.3%
+- Home: 7.8%
+- Auto: 7.3%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.9%
+- Home: 6.4%
+- Auto: 5.9%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.1%
+- Home: 7.6%
+- Auto: 7.1%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #946640 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #640364 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.1%
+- Home: 3.6%
+- Auto: 3.1%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $8779.,account_balance,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $1875.,account_balance,local_generation
+en,account_balance,What's my current balance?,Your current balance is $591.,account_balance,local_generation
+en,account_balance,What's my current balance?,Your current balance is $4041.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $1172.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 3.8%
+- Home: 3.3%
+- Auto: 2.8%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $6532.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $6598.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $3837.,account_balance,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.2%
+- Home: 4.7%
+- Auto: 4.2%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 3.7%
+- Home: 3.2%
+- Auto: 2.7%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $614.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.1%
+- Home: 5.6%
+- Auto: 5.1%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.1%
+- Home: 7.6%
+- Auto: 7.1%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 5.7%
+- Home: 5.2%
+- Auto: 4.7%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #510055 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.1%
+- Home: 7.6%
+- Auto: 7.1%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #998251 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #606908 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.3%
+- Home: 4.8%
+- Auto: 4.3%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #165576 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $3622.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.1%
+- Home: 5.6%
+- Auto: 5.1%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $5565.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.0%
+- Home: 5.5%
+- Auto: 5.0%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.5%
+- Home: 7.0%
+- Auto: 6.5%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $6189.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $9851.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 5.8%
+- Home: 5.3%
+- Auto: 4.8%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 7.8%
+- Home: 7.3%
+- Auto: 6.8%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.7%
+- Home: 5.2%
+- Auto: 4.7%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $9615.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 3.8%
+- Home: 3.3%
+- Auto: 2.8%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $4348.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $747.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $1036.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 3.9%
+- Home: 3.4%
+- Auto: 2.9%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $6146.,account_balance,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.5%
+- Home: 5.0%
+- Auto: 4.5%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #539855 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.5%
+- Home: 5.0%
+- Auto: 4.5%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #863833 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.2%
+- Home: 6.7%
+- Auto: 6.2%",loan_query,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #899682 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $8792.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #819884 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.3%
+- Home: 6.8%
+- Auto: 6.3%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $4841.,account_balance,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #686735 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.1%
+- Home: 7.6%
+- Auto: 7.1%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $9442.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.1%
+- Home: 7.6%
+- Auto: 7.1%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.2%
+- Home: 7.7%
+- Auto: 7.2%",loan_query,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.3%
+- Home: 7.8%
+- Auto: 7.3%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #914228 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.4%
+- Home: 3.9%
+- Auto: 3.4%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 8.3%
+- Home: 7.8%
+- Auto: 7.3%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $8694.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #413029 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.5%
+- Home: 8.0%
+- Auto: 7.5%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $2090.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #430831 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #913960 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6483.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.7%
+- Home: 5.2%
+- Auto: 4.7%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.2%
+- Home: 3.7%
+- Auto: 3.2%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 3.8%
+- Home: 3.3%
+- Auto: 2.8%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #781173 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $9322.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $549.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 7.1%
+- Home: 6.6%
+- Auto: 6.1%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.6%
+- Home: 4.1%
+- Auto: 3.6%",loan_query,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #813806 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $8465.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $6460.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #854102 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.5%
+- Home: 7.0%
+- Auto: 6.5%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #493390 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.5%
+- Home: 6.0%
+- Auto: 5.5%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $3113.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #347535 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.0%
+- Home: 5.5%
+- Auto: 5.0%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #770625 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.3%
+- Home: 5.8%
+- Auto: 5.3%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #986378 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.1%
+- Home: 6.6%
+- Auto: 6.1%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #742905 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6075.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #646329 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #932024 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $7533.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.3%
+- Home: 3.8%
+- Auto: 3.3%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.3%
+- Home: 4.8%
+- Auto: 4.3%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #722459 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $1370.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $7204.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #414553 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #977545 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 3.5%
+- Home: 3.0%
+- Auto: 2.5%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 3.8%
+- Home: 3.3%
+- Auto: 2.8%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.1%
+- Home: 7.6%
+- Auto: 7.1%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.7%
+- Home: 7.2%
+- Auto: 6.7%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #939357 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #947642 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.2%
+- Home: 4.7%
+- Auto: 4.2%",loan_query,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #183692 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $6786.,account_balance,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #869246 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.2%
+- Home: 5.7%
+- Auto: 5.2%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.0%
+- Home: 5.5%
+- Auto: 5.0%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6113.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #259112 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #801792 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.6%
+- Home: 5.1%
+- Auto: 4.6%",loan_query,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $6686.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #903320 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.5%
+- Home: 4.0%
+- Auto: 3.5%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #967537 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.1%
+- Home: 7.6%
+- Auto: 7.1%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.3%
+- Home: 5.8%
+- Auto: 5.3%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #417414 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.0%
+- Home: 5.5%
+- Auto: 5.0%",loan_query,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #897462 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #188591 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.6%
+- Home: 4.1%
+- Auto: 3.6%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $4120.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.7%
+- Home: 7.2%
+- Auto: 6.7%",loan_query,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #781147 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #833052 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.2%
+- Home: 5.7%
+- Auto: 5.2%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $8443.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $6598.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #544722 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.4%
+- Home: 7.9%
+- Auto: 7.4%",loan_query,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.1%
+- Home: 5.6%
+- Auto: 5.1%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #507300 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $2657.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $3723.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 3.5%
+- Home: 3.0%
+- Auto: 2.5%",loan_query,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.4%
+- Home: 7.9%
+- Auto: 7.4%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.9%
+- Home: 7.4%
+- Auto: 6.9%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $2160.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.6%
+- Home: 6.1%
+- Auto: 5.6%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $5306.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.3%
+- Home: 4.8%
+- Auto: 4.3%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #133305 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #876382 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $2918.,account_balance,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #269829 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 7.1%
+- Home: 6.6%
+- Auto: 6.1%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $7692.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.2%
+- Home: 4.7%
+- Auto: 4.2%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.4%
+- Home: 7.9%
+- Auto: 7.4%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.7%
+- Home: 6.2%
+- Auto: 5.7%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $8173.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 5.4%
+- Home: 4.9%
+- Auto: 4.4%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $7653.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.0%
+- Home: 6.5%
+- Auto: 6.0%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $9438.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.7%
+- Home: 6.2%
+- Auto: 5.7%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $2050.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $4743.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #937491 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $7298.,account_balance,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.4%
+- Home: 7.9%
+- Auto: 7.4%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.1%
+- Home: 4.6%
+- Auto: 4.1%",loan_query,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #537977 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $2406.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #225491 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #922935 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $3603.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #839758 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.7%
+- Home: 7.2%
+- Auto: 6.7%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $7072.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $4792.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $9776.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #714407 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $6293.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.5%
+- Home: 6.0%
+- Auto: 5.5%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #510962 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.7%
+- Home: 4.2%
+- Auto: 3.7%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #532591 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.6%
+- Home: 7.1%
+- Auto: 6.6%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #346310 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6424.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $3709.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.4%
+- Home: 5.9%
+- Auto: 5.4%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $3688.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.7%
+- Home: 7.2%
+- Auto: 6.7%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 3.6%
+- Home: 3.1%
+- Auto: 2.6%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $4233.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $9599.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.9%
+- Home: 4.4%
+- Auto: 3.9%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 5.7%
+- Home: 5.2%
+- Auto: 4.7%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #460790 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #904003 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 3.9%
+- Home: 3.4%
+- Auto: 2.9%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $2503.,account_balance,local_generation
+en,account_balance,What's my current balance?,Your current balance is $4242.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $376.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.4%
+- Home: 5.9%
+- Auto: 5.4%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.3%
+- Home: 3.8%
+- Auto: 3.3%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #810070 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #340743 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $1193.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $3211.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $3497.,account_balance,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #199207 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.0%
+- Home: 7.5%
+- Auto: 7.0%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #184381 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #434026 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $8786.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.0%
+- Home: 6.5%
+- Auto: 6.0%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $3082.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #602502 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #699575 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $8992.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $807.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #109249 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.1%
+- Home: 4.6%
+- Auto: 4.1%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $3511.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #607201 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $661.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $377.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #356797 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $7505.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.4%
+- Home: 6.9%
+- Auto: 6.4%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #648150 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $7543.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #619960 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #440464 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #762484 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #187013 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #617650 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $8901.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.4%
+- Home: 6.9%
+- Auto: 6.4%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.5%
+- Home: 4.0%
+- Auto: 3.5%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 7.5%
+- Home: 7.0%
+- Auto: 6.5%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.9%
+- Home: 7.4%
+- Auto: 6.9%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $4467.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.9%
+- Home: 6.4%
+- Auto: 5.9%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $6130.,account_balance,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #390886 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $3181.,account_balance,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $8518.,account_balance,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.3%
+- Home: 3.8%
+- Auto: 3.3%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $8557.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $5843.,account_balance,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #184883 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #501953 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #231871 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $7807.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #457237 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.1%
+- Home: 4.6%
+- Auto: 4.1%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $1735.,account_balance,local_generation
+en,account_balance,What's my current balance?,Your current balance is $3730.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $2968.,account_balance,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #518896 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #856493 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #333472 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.7%
+- Home: 7.2%
+- Auto: 6.7%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.0%
+- Home: 5.5%
+- Auto: 5.0%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $7488.,account_balance,local_generation
+en,account_balance,What's my current balance?,Your current balance is $1080.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $3859.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 8.0%
+- Home: 7.5%
+- Auto: 7.0%",loan_query,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #682575 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #345624 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #260000 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.0%
+- Home: 4.5%
+- Auto: 4.0%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #895147 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.9%
+- Home: 4.4%
+- Auto: 3.9%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.0%
+- Home: 3.5%
+- Auto: 3.0%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.2%
+- Home: 6.7%
+- Auto: 6.2%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 5.3%
+- Home: 4.8%
+- Auto: 4.3%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $5272.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.0%
+- Home: 4.5%
+- Auto: 4.0%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 5.4%
+- Home: 4.9%
+- Auto: 4.4%",loan_query,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #682139 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #278167 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.0%
+- Home: 5.5%
+- Auto: 5.0%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $9550.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.1%
+- Home: 4.6%
+- Auto: 4.1%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 3.8%
+- Home: 3.3%
+- Auto: 2.8%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.0%
+- Home: 6.5%
+- Auto: 6.0%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $5899.,account_balance,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.8%
+- Home: 4.3%
+- Auto: 3.8%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #250427 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #880089 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #547462 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $7126.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 7.5%
+- Home: 7.0%
+- Auto: 6.5%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $757.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 7.3%
+- Home: 6.8%
+- Auto: 6.3%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.9%
+- Home: 4.4%
+- Auto: 3.9%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #576567 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.0%
+- Home: 6.5%
+- Auto: 6.0%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $2345.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.7%
+- Home: 4.2%
+- Auto: 3.7%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $2809.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.7%
+- Home: 4.2%
+- Auto: 3.7%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $924.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 7.1%
+- Home: 6.6%
+- Auto: 6.1%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.5%
+- Home: 6.0%
+- Auto: 5.5%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $1007.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $595.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.5%
+- Home: 5.0%
+- Auto: 4.5%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.4%
+- Home: 4.9%
+- Auto: 4.4%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $955.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $1580.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $8401.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #421165 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #392519 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.4%
+- Home: 4.9%
+- Auto: 4.4%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $7846.,account_balance,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $7174.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #450418 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 3.8%
+- Home: 3.3%
+- Auto: 2.8%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.5%
+- Home: 4.0%
+- Auto: 3.5%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $3826.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #890733 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $9530.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $1136.,account_balance,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $399.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #676932 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.0%
+- Home: 5.5%
+- Auto: 5.0%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #534960 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.4%
+- Home: 3.9%
+- Auto: 3.4%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #132524 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #998467 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #113726 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $1817.,account_balance,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.4%
+- Home: 6.9%
+- Auto: 6.4%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #876609 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.4%
+- Home: 6.9%
+- Auto: 6.4%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #375124 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.0%
+- Home: 3.5%
+- Auto: 3.0%",loan_query,local_generation
+en,account_balance,What's my current balance?,Your current balance is $3412.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #593707 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #482871 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #191035 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #663680 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #319186 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.1%
+- Home: 3.6%
+- Auto: 3.1%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $7879.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #662056 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.2%
+- Home: 5.7%
+- Auto: 5.2%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #324275 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #169798 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $8474.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.4%
+- Home: 7.9%
+- Auto: 7.4%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.0%
+- Home: 7.5%
+- Auto: 7.0%",loan_query,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #409952 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $9152.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #795122 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #486526 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #920888 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #375717 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #956130 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $9318.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #558590 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #416871 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.4%
+- Home: 4.9%
+- Auto: 4.4%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.8%
+- Home: 4.3%
+- Auto: 3.8%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #491630 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #820879 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $6895.,account_balance,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $3910.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.0%
+- Home: 3.5%
+- Auto: 3.0%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 5.3%
+- Home: 4.8%
+- Auto: 4.3%",loan_query,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #584324 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #425723 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $4997.,account_balance,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $9384.,account_balance,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 6.7%
+- Home: 6.2%
+- Auto: 5.7%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #957430 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 3.6%
+- Home: 3.1%
+- Auto: 2.6%",loan_query,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 6.7%
+- Home: 6.2%
+- Auto: 5.7%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.9%
+- Home: 4.4%
+- Auto: 3.9%",loan_query,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #386244 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #315943 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 8.3%
+- Home: 7.8%
+- Auto: 7.3%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $7264.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.6%
+- Home: 4.1%
+- Auto: 3.6%",loan_query,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,What's my current balance?,Your current balance is $1104.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.4%
+- Home: 4.9%
+- Auto: 4.4%",loan_query,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $1210.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #876972 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $5423.,account_balance,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $3542.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.2%
+- Home: 5.7%
+- Auto: 5.2%",loan_query,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $6151.,account_balance,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.0%
+- Home: 3.5%
+- Auto: 3.0%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $2197.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $1902.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.3%
+- Home: 4.8%
+- Auto: 4.3%",loan_query,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 7.5%
+- Home: 7.0%
+- Auto: 6.5%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 4.0%
+- Home: 3.5%
+- Auto: 3.0%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #667813 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #460174 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 5.4%
+- Home: 4.9%
+- Auto: 4.4%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.8%
+- Home: 4.3%
+- Auto: 3.8%",loan_query,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #999465 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.7%
+- Home: 5.2%
+- Auto: 4.7%",loan_query,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #141284 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.5%
+- Home: 4.0%
+- Auto: 3.5%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #944875 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #447939 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $2999.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 8.2%
+- Home: 7.7%
+- Auto: 7.2%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.8%
+- Home: 6.3%
+- Auto: 5.8%",loan_query,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,Why was my card declined?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #345418 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #344640 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.6%
+- Home: 4.1%
+- Auto: 3.6%",loan_query,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #364718 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $9821.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #617318 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #658334 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,What's my current balance?,Your current balance is $2780.,account_balance,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #966113 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $3773.,account_balance,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #817844 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $4550.,account_balance,local_generation
+en,account_balance,What's my current balance?,Your current balance is $435.,account_balance,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #850166 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $8036.,account_balance,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.6%
+- Home: 5.1%
+- Auto: 4.6%",loan_query,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #611258 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #245410 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #606738 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,account_balance,What's my current balance?,Your current balance is $8784.,account_balance,local_generation
+en,account_balance,Why is my balance incorrect?,Your current balance is $494.,account_balance,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $6342.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 7.2%
+- Home: 6.7%
+- Auto: 6.2%",loan_query,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $7093.,account_balance,local_generation
+en,fund_transfer,How do I send money to another bank?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,I see an unauthorized transaction.,Dispute case #846184 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What documents are needed for a car loan?,"Current interest rates:
+- Personal: 4.8%
+- Home: 4.3%
+- Auto: 3.8%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 4.7%
+- Home: 4.2%
+- Auto: 3.7%",loan_query,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $9460.,account_balance,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.3%
+- Home: 5.8%
+- Auto: 5.3%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $3066.,account_balance,local_generation
+en,transaction_dispute,Why was I charged twice?,Dispute case #135420 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,fund_transfer,What's the daily transfer limit?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,transaction_dispute,How do I report fraud?,Dispute case #580800 has been opened. Resolution in 10 business days.,transaction_dispute,local_generation
+en,loan_query,What's the interest rate for a home loan?,"Current interest rates:
+- Personal: 5.3%
+- Home: 4.8%
+- Auto: 4.3%",loan_query,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 5.6%
+- Home: 5.1%
+- Auto: 4.6%",loan_query,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,fund_transfer,Why did my transfer fail?,You can transfer money via our mobile app or online banking.,fund_transfer,local_generation
+en,card_issues,My debit card isn't working!,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,card_issues,How do I block a lost card?,"For card issues, please call our 24/7 support at 1-800-BANK-HELP.",card_issues,local_generation
+en,loan_query,How do I apply for a personal loan?,"Current interest rates:
+- Personal: 6.8%
+- Home: 6.3%
+- Auto: 5.8%",loan_query,local_generation
+en,account_balance,Can I get a mini-statement?,Your current balance is $1312.,account_balance,local_generation
