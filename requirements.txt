@@ -1,8 +1,7 @@
-
 gradio
 transformers
 sentence-transformers
 torch
 langdetect
-pandas
 nltk
+pandas
